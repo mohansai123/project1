@@ -8,7 +8,7 @@ pipeline {
         TF_bucket = 'pavanssonixbucket1'
         TF_VAR_key_name = 'demo-key'
         TF_VAR_instance_type = 't2.micro'
-        GITHUB_REPO_URL = 'https://github.com/pavankumarindian/Jenkins-Terraform-EC2-S3-Infrastructure.git'
+        GITHUB_REPO_URL = 'https://github.com/mohansai123/project1.git'
     }
 
     stages {
